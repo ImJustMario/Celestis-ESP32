@@ -89,5 +89,5 @@
 
     contador++;
 
-    delay(1000);
+    delay(66); // 66ms para 15fps
   }
